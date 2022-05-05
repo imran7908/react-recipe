@@ -3,10 +3,12 @@
     width: 200px;
     object-fit: cover;
     border-radius: 0.25rem;
+    cursor: pointer;
 }
 
 .name {
     max-width: 200px;
     text-align: center;
     margin: 12px 0px;
+    cursor: pointer;
 }

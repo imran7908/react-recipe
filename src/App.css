@@ -35,4 +35,27 @@
   border: 2px solid #02aff0;
   border-radius: 0.25rem;
   color: white;
+  cursor: pointer;
+}
+
+.submit:hover {
+  margin-left: 6px;
+  background-color: white;
+  border: 2px solid #02aff0;
+  border-radius: 0.25rem;
+  color: #02aff0;
+  cursor: pointer;
+}
+
+.recipes {
+  margin-top: 24px;
+  display: grid;
+  grid-template-columns: 230px 230px;
+  align-items: baseline;
+}
+
+.healthLabel {
+  padding: 7px 8px;
+  margin-left: 6px;
+  border-radius: 4px;
 }
